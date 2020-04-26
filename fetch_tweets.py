@@ -17,10 +17,10 @@ import tweepy
 Logger = None
 
 # Generate your own at https://apps.twitter.com/app
-CONSUMER_KEY = 'diubNyZ4MAxyvwiA0rU4uzfqD'
-CONSUMER_SECRET = '2sOU9Dt1jKaiAKKHQkzJXDvYauIVuV7yiwPG9uj2zIlZ15DZz3'
-OAUTH_TOKEN = '900775883983552512-eEi6CEwq2djrnfNRav3NYsZWSkfvySG'
-OAUTH_TOKEN_SECRET = '2ZYSkef5Vv5otlnPEnF5Rvk5LJDfg03tMwla7l1IQabaa'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+OAUTH_TOKEN = ''
+OAUTH_TOKEN_SECRET = ''
 
 # batch size depends on Twitter limit, 100 at this time
 batch_size = 100
